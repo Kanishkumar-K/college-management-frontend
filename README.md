@@ -41,8 +41,6 @@ Screenshots:
 
 ![Screenshot 2024-11-20 194613](https://github.com/user-attachments/assets/e105178c-6a73-4867-9722-d7e3d7446af4)
 
-![Screenshot 2024-11-20 194619](https://github.com/user-attachments/assets/1366f2f2-93d1-4221-a165-9b864bb1ee75)
-
 ![Screenshot 2024-11-20 194634](https://github.com/user-attachments/assets/5ee72d20-b589-4460-980c-20fd6f167813)
 
 ![Screenshot 2024-11-20 194641](https://github.com/user-attachments/assets/2be4a43d-1ee1-4a92-9eb4-70f273a1b9c9)
