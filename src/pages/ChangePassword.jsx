@@ -34,7 +34,7 @@ const ChangePassword = () => {
       const response = await fetch(
         "https://college-management-backend-wz9p.onrender.com/api/student/change-password/",
         {
-          method: "PATCH",
+          method: "PUT",
           headers: {
             Authorization: `Bearer ${token}`,
             "Content-Type": "application/json",
