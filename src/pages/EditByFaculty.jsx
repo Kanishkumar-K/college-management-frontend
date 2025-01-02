@@ -12,7 +12,7 @@ const UpdateStudent = () => {
     last_name: "",
     email: "",
     date_of_birth: "",
-    gender: "male",
+    gender: "",
     blood_group: "",
     contact_number: "",
     address: "",
